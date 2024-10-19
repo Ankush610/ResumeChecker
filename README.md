@@ -90,7 +90,7 @@ Run the following commands to pull and start the Ollama Docker image:
 docker pull ollama/ollama
 ```
 #### Ollama Setup Instructions
-Download and install [ollama setup](https://hub.docker.com/r/ollama/ollama)
+Ollama Instruct [ollama setup](https://hub.docker.com/r/ollama/ollama)
 
 ---
 
